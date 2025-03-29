@@ -105,7 +105,7 @@ We provide detailed step-by-step examples for running inference of our pre-train
 
 **Test inference without a robot**: We provide a [script](examples/simple_client/README.md) for testing inference without a robot. This script will generate a random observation and run inference with the model. See [here](examples/simple_client/README.md) for more details.
 
-
+ 
 
 
 
